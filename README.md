@@ -1,4 +1,4 @@
-# SOP-IT-001 · ChatGPT Onboarding Guide
+# SOP · ChatGPT Onboarding Guide
 > A Standard Operating Procedure for workplace AI tool adoption · Version 1.0 · April 2026
 ---
 ## About This Document
